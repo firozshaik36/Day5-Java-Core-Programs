@@ -15,7 +15,6 @@ public class HarmonicNumber {
 
     public static void main (String[] args) {
         int N = 9;
-
         System.out.print(nthHarmonic(N));
 
     }
